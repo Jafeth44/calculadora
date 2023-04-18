@@ -1,3 +1,3 @@
-Calculadora básica
+Basic Calculator.
 
-Realizada con html, css y vanilla js.
+Made in vanilla js.
