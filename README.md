@@ -1,3 +1,3 @@
 Basic Calculator.
 
-Made in vanilla js.
+Made in vanilla JS.
